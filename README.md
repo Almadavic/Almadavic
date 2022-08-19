@@ -102,4 +102,4 @@ Java                     21 repos            ███████████�
  Last Updated on 19/08/2022 19:16:46 UTC
 <!--END_SECTION:waka-->
 
-  ![Snake animation](https://github.com/almadavic/almadavic/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]
