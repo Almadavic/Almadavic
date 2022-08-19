@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: Spring Boot and starting to study front-end.
 - 🎓 College Course : Systems Analysis and Development.
-- 📚  I am a student of Alura.
+- 📚  I am a student at Alura.
 - 💬 Ask me about anything.
 
 
