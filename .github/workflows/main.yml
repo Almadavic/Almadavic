@@ -10,7 +10,7 @@ jobs:
     name: Update Readme 
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: AriHenrique/waka-readme-stats-ari@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -25,4 +25,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "true"
           SHOW_TOTAL_CODE_TIME: "true"
           SHOW_UPDATED_DATE: "true"
-          SHOW_SHORT_INFO: "false"
+          SHOW_SHORT_INFO: "true"
