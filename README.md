@@ -68,21 +68,19 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     1 min               ████████████████░░░░░░░░░   65.8% 
-Text                     0 secs              ████████░░░░░░░░░░░░░░░░░   34.2%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PadraoSecurity-Swagger   2 mins              ████████████████████████░   98.91% 
-ForumAlura               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 28/10/2022 03:40:12 UTC
+ Last Updated on 28/10/2022 04:32:23 UTC
 <!--END_SECTION:waka-->
