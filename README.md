@@ -35,7 +35,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -68,19 +68,22 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     11 mins             ███████████████░░░░░░░░░░   63.19% 
+Properties               4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.27% 
+Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 18 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PadraoSecurity-Swagger   18 mins             ████████████████████████░   96.56% 
+ForumAlura               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/10/2022 03:10:50 UTC
+ Last Updated on 29/10/2022 04:04:01 UTC
 <!--END_SECTION:waka-->
