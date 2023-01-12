@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning: Spring Boot and starting to study front-end.
 - 🎓 College Course: Systems Analysis and Development.
-- 📚  I am a student at Alura.
+- 📚  I am a student at Alura and Origamid.
 - 💬 Ask me about anything.
-- 🎖 My main original projects: SchoolSystem and DrawTeam
+- 🎖 My main original projects: SchoolSystem, DrawTeam and SecurityStandard.
 
 
 <div align="center">
