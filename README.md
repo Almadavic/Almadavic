@@ -6,6 +6,13 @@
 - 📚  I am a student at Alura and Origamid.
 - 💬 Ask me about anything.
 - 🎖 My main original projects: SchoolSystem, DrawTeam and SecurityStandard.
+- 📚 I am also studying english, My English level is B2.
+ 
+<div>
+<a href="https://github.com/Almadavic">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almadavic&showw_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almadavic&layout=compact&langs_count=16&theme=dracula">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Almada-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -80,5 +87,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/01/2023 19:47:38 UTC
+ Last Updated on 13/01/2023 19:33:24 UTC
 <!--END_SECTION:waka-->
