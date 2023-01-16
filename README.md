@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning: Spring Boot and starting to study front-end.
-- 🎓 College Course: Systems Analysis and Development.
+- 🎓 College Course: Computer Science.
 - 📚  I am a student at Alura and Origamid.
 - 💬 Ask me about anything.
 - 🎖 My main original projects: SchoolSystem, DrawTeam and SecurityStandard.
