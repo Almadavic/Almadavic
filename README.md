@@ -39,7 +39,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -92,5 +92,5 @@ Windows                  7 hrs 18 mins       ███████████�
 ```
 
 
- Last Updated on 25/03/2023 02:56:29 UTC
+ Last Updated on 25/03/2023 03:09:14 UTC
 <!--END_SECTION:waka-->
