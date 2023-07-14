@@ -70,19 +70,18 @@ Sunday                   4 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      44 mins             ████████████████████░░░░░   78.29 % 
-HTML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Projeto-Animais          56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/07/2023 03:18:51 UTC
+ Last Updated on 14/07/2023 03:37:25 UTC
 <!--END_SECTION:waka-->
