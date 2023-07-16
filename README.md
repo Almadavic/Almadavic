@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -83,5 +83,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/07/2023 19:55:31 UTC
+ Last Updated on 16/07/2023 20:07:38 UTC
 <!--END_SECTION:waka-->
