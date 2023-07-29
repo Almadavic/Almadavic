@@ -39,7 +39,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -83,5 +83,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2023 19:57:57 UTC
+ Last Updated on 29/07/2023 20:09:53 UTC
 <!--END_SECTION:waka-->
