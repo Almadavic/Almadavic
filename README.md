@@ -70,21 +70,18 @@ Sunday                   6 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     3 mins              ██████████░░░░░░░░░░░░░░░   40.76 % 
-CSS                      3 mins              ████████░░░░░░░░░░░░░░░░░   33.86 % 
-JavaScript               2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Portifolio-main          5 mins              ██████████████░░░░░░░░░░░   55.23 % 
-Renatinho                4 mins              ███████████░░░░░░░░░░░░░░   44.77 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/08/2023 03:09:21 UTC
+ Last Updated on 06/08/2023 03:20:49 UTC
 <!--END_SECTION:waka-->
