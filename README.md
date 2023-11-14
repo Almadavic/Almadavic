@@ -70,20 +70,18 @@ Sunday                   7 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               36 mins             █████████████░░░░░░░░░░░░   51.25 % 
-CSS                      18 mins             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-HTML                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-people-frontend-certo    1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/11/2023 03:03:30 UTC
+ Last Updated on 14/11/2023 03:19:49 UTC
 <!--END_SECTION:waka-->
