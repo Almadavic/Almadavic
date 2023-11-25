@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning: Spring Boot and Angular.
--    I work for PRODEMGE.
+- 📚  I work at PRODEMGE.
 - 🎓 College Course: Computer Science.
 - 📚  I am a student at Alura and Origamid.
 - 💬 Ask me about anything.
