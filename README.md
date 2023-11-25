@@ -1,12 +1,13 @@
 ### Hi there, It's Victor Almada 👋
 
 
-- 🌱 I’m currently learning: Spring Boot and starting to study front-end.
+- 🌱 I’m currently learning: Spring Boot and Angular.
+-    I work for PRODEMGE.
 - 🎓 College Course: Computer Science.
 - 📚  I am a student at Alura and Origamid.
 - 💬 Ask me about anything.
-- 🎖 My main original projects: SchoolSystem, DrawTeam and SecurityStandard.
-- 📚 I am also studying english, My English level is B2.
+- 🎖 My main original projects: ClinicaAPI, SchoolSystem, DrawTeam and SecurityStandard.
+- 📚 I am also studying english, My English level is C1.
  
 <div>
 <a href="https://github.com/Almadavic">
